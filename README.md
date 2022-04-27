@@ -6,10 +6,25 @@ As Data Analysts we are given raw data in many forms. For this project we are gi
 
 ## Election-Audit Results
 
-How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+- How many votes were cast in this congressional election? 
+    By utilizing the following code we were able to define a variable as an integer, and begin tracking this value at zero:
+    
+ # insert initializing png
+    
+    After defining the variable we added more lines of code to help us to tabulate the total votes counted in the election:
+  
+  #insert adding votes png
+    
+    Further down in our code we can used the code below to print the total votes placed in the data we uploaded:
+    
+    #insert printing vote total png
+        
+- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+- Which county had the largest number of votes?
+
+- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 ## Election-Audit Summary
